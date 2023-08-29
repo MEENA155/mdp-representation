@@ -12,9 +12,7 @@ Write your answer here
 ### {L1,L2,L3}-->{0,1,2}
 
 ### L1->Level1
-
 ### L2->Level2
-
 ###  L3->Levvel3
 
 # Sample State
@@ -22,7 +20,6 @@ Write your answer here
 
 # Action Space
 ### Jump left
-
 ### Jump right
 
 # Sample Action
