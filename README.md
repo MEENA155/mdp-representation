@@ -26,13 +26,13 @@ Write your answer here
 ### Jump right
 
 # Sample Action
-###Jump right ->Frog gets food
+### Jump right ->Frog gets food
 
 # Reward Function
 Reward= 
          +1, if the frog reaches the leaf with food
-
           0, Otherwise
+         
 
 ### Graphical Representation
 ![image](https://github.com/MEENA155/mdp-representation/assets/94677128/849be418-8324-4873-bff3-3680eab86746)
