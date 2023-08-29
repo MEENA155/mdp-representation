@@ -10,8 +10,11 @@ Write your answer here
 
 ### State Space
 {L1,L2,L3}-->{0,1,2}
+
 L1->Level1
+
 L2->Level2
+
 L3->Levvel3
 
 ### Sample State
@@ -19,12 +22,14 @@ L2->Level2,1
 
 ### Action Space
 Jump left
+
 Jump right
 
 ### Sample Action
 Jump right ->Frog gets food
 
 ### Reward Function
+
          +1, if the frog reaches the leaf with food
 Reward= 
           0, Otherwise
