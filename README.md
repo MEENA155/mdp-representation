@@ -1,30 +1,37 @@
 # MDP REPRESENTATION
 
 ## AIM:
-Write your aim here
 
 ## PROBLEM STATEMENT:
+To develope the game application, the role of the agent is to promote the frog into the next level that level having food.
 
 ### Problem Description
 Write your answer here
 
 ### State Space
-Write your answer here
+{L1,L2,L3}-->{0,1,2}
+L1->Level1
+L2->Level2
+L3->Levvel3
 
 ### Sample State
-Write your answer here
+L2->Level2,1
 
 ### Action Space
-Write your answer here
+Jump left
+Jump right
 
 ### Sample Action
-Write your answer here
+Jump right ->Frog gets food
 
 ### Reward Function
-Write your answer here
+         +1, if the frog reaches the leaf with food
+Reward= 
+          0, Otherwise
 
 ### Graphical Representation
-Write your answer here
+![image](https://github.com/MEENA155/mdp-representation/assets/94677128/849be418-8324-4873-bff3-3680eab86746)
+
 
 ## PYTHON REPRESENTATION:
 Write your code here
