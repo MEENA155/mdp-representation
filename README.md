@@ -31,7 +31,7 @@ Write your answer here
 # Reward Function
 ### Reward= 
          +1, if the frog reaches the leaf with food
-                  0, Otherwise
+          0, Otherwise
          
 
 ### Graphical Representation
