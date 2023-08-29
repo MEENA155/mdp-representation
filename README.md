@@ -8,30 +8,30 @@ To develope the game application, the role of the agent is to promote the frog i
 ### Problem Description
 Write your answer here
 
-### State Space
+## State Space
 {L1,L2,L3}-->{0,1,2}
 
-L1->Level1
+### L1->Level1
 
-L2->Level2
+### L2->Level2
 
-L3->Levvel3
+###  L3->Levvel3
 
-### Sample State
+## Sample State
 L2->Level2,1
 
-### Action Space
-Jump left
+## Action Space
+### Jump left
 
-Jump right
+### Jump right
 
-### Sample Action
+## Sample Action
 Jump right ->Frog gets food
 
-### Reward Function
-
-         +1, if the frog reaches the leaf with food
+## Reward Function
 Reward= 
+         +1, if the frog reaches the leaf with food
+
           0, Otherwise
 
 ### Graphical Representation
